@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solutions to problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-53-electrochemical-processing-of-materials-spring-2001/42aae14a30a11177a49e1eccbf1889e0_ps3sol.pdf
+file: /media/courses/3-53-electrochemical-processing-of-materials-spring-2001/42aae14a30a11177a49e1eccbf1889e0_ps3sol.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps3sol.pdf
 uid: 42aae14a-30a1-1177-a49e-1eccbf1889e0
