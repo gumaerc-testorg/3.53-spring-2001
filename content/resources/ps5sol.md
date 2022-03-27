@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 01993cdb-c56a-a9ff-10e7-9459e62e617f
 resourcetype: Document
 title: ps5sol.pdf
 uid: e25716cc-b285-5a94-3210-f510769d3924
