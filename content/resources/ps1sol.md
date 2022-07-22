@@ -5,6 +5,7 @@ file: /courses/3-53-electrochemical-processing-of-materials-spring-2001/bfe53ef0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1sol.pdf
 uid: bfe53ef0-1397-89e4-dae8-7e6a9ccfa1b1
 ---
 Handwritten solution to problem set.
-
