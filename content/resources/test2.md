@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/3-53-electrochemical-processing-of-materials-spring-2001/cffe1ee9d169d04105dfcec30f231ff4_test2.pdf
+file_size: 62177
 file_type: application/pdf
 learning_resource_types:
 - Assignments

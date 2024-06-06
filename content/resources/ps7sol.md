@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to problem set.
 file: /courses/3-53-electrochemical-processing-of-materials-spring-2001/cc956dd84b702b4b2c77392ebabb0c70_ps7sol.pdf
+file_size: 83083
 file_type: application/pdf
 learning_resource_types:
 - Assignments
