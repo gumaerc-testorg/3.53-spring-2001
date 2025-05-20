@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to problem set.
-file: /ol-ocw-studio-app/courses/3-53-electrochemical-processing-of-materials-spring-2001/42aae14a30a11177a49e1eccbf1889e0_ps3sol.pdf
+file: /courses/3-53-electrochemical-processing-of-materials-spring-2001/42aae14a30a11177a49e1eccbf1889e0_ps3sol.pdf
 file_size: 139740
 file_type: application/pdf
 learning_resource_types:

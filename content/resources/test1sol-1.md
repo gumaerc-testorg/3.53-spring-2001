@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to exam problems.
-file: /ol-ocw-studio-app/courses/3-53-electrochemical-processing-of-materials-spring-2001/057c3ec997b62a8a87423296fded99c3_test1sol.pdf
+file: /courses/3-53-electrochemical-processing-of-materials-spring-2001/057c3ec997b62a8a87423296fded99c3_test1sol.pdf
 file_size: 299941
 file_type: application/pdf
 learning_resource_types:

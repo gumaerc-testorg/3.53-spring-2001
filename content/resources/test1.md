@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/3-53-electrochemical-processing-of-materials-spring-2001/56450419ea337fe80a2a7f119d49662c_test1.pdf
+file: /courses/3-53-electrochemical-processing-of-materials-spring-2001/56450419ea337fe80a2a7f119d49662c_test1.pdf
 file_size: 88874
 file_type: application/pdf
 learning_resource_types:

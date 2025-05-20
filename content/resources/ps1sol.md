@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten solution to problem set.
-file: /ol-ocw-studio-app/courses/3-53-electrochemical-processing-of-materials-spring-2001/bfe53ef0139789e4dae87e6a9ccfa1b1_ps1sol.pdf
+file: /courses/3-53-electrochemical-processing-of-materials-spring-2001/bfe53ef0139789e4dae87e6a9ccfa1b1_ps1sol.pdf
 file_size: 442882
 file_type: application/pdf
 learning_resource_types:
