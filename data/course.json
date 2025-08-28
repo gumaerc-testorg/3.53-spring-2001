@@ -50,11 +50,11 @@
     "website": "3-53-electrochemical-processing-of-materials-spring-2001"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Problem Sets with Solutions",
     "Exams with Solutions"
   ],
   "site_uid": "a4bcdc36-3d0f-4ddf-9bbd-cad4eec7eb01",
   "site_short_id": "3.53-spring-2001",
+  "site_url_path": "courses/3-53-electrochemical-processing-of-materials-spring-2001",
   "title": "Course Metadata"
 }
